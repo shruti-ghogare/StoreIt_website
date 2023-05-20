@@ -4,4 +4,4 @@ This PHP program you can use it to upload your personal files to your website di
 You can run this program and login with username: admin and password: admin, then begin uploading files.
 Your uploaded files will be stored on uploads folder.
 After uploading your files, you can click any of listed file to download them, or click delete button to remove them.
-For running this project in your system,just change the base URl according to your localhost.
+For running this project in your system,just change the base URL according to your localhost.
